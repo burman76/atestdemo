@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template display_value="Basic Auth Demo Configuration">cbdcec63b70333008321e916de11a96c</configuration_template>
+        <connection_type>sys_connection</connection_type>
+        <id>jakegit</id>
+        <multiple_connections>false</multiple_connections>
+        <name>jakegit</name>
+        <parent/>
+        <retry_policy/>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-06 17:25:34</sys_created_on>
+        <sys_id>755216121b7d1450409396482b4bcbae</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>jakegit</sys_name>
+        <sys_package display_value="a test app" source="9c911ade1b3d1450409396482b4bcba3">9c911ade1b3d1450409396482b4bcba3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="a test app">9c911ade1b3d1450409396482b4bcba3</sys_scope>
+        <sys_update_name>sys_alias_755216121b7d1450409396482b4bcbae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-06 17:27:06</sys_updated_on>
+        <type>credential</type>
+    </sys_alias>
+</record_update>
